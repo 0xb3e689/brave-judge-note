@@ -1,0 +1,5 @@
+# local test output
+output/
+entry.txt
+__pycache__/
+*.pyc
